@@ -23,7 +23,7 @@ This product consists of the following components:
 I built the website using the Jikan API (4.0.0).
 ![Jikan API](https://docs.api.jikan.moe/).
 
-<img src="/img/img5.png" alt="..." width="1000px" />
+<img src="/img/adminlogin.png" alt="..." width="1000px" />
 
 ### Directory Structure
 <img src="/img/img6.png" alt="..." width="500px" />
