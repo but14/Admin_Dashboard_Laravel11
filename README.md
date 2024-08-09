@@ -2,47 +2,56 @@
 
 ### Content
 
-- Home
-- Recommendations
-- Search for Movies
-- Movie Details
+-   Home
+-   Đăng nhập
+-   Thêm/Sửa/Xóa danh mục
+-   Thêm/Sửa/Xóa sản phẩm
+-   Thêm/Sửa/Xóa thương hiệu
 
 ### Introduction
-The product is a website that allows users to access and view detailed information about anime films.
 
-<img src="/img/img1.png" alt="..." width="1000px" />
+Dự án sử dụng framework laravel 11 để xây dựng nên trang quản lý của
+trang thương mại điện tử bán quần áo. Trang quản trị sẽ có các chức năng
+như: Đăng nhập, chức năng crud cho sản phẩm, danh mục và brand.
 
-This product consists of the following components:
- - API
- - Website
+<img src="/img/adminhome.png" alt="..." width="1000px" />
 
 ### Technologies Used
- - ReactJS
+-   PHP
+-   LARAVEL 11
+-   MYSQL
 
-### API Used
-I built the website using the Jikan API (4.0.0).
-![Jikan API](https://docs.api.jikan.moe/).
+### Home Page
 
-<img src="/img/adminlogin.png" alt="..." width="1000px" />
+<img src="/img/adminhome.png" alt="..." width="1000px" />
 
 ### Directory Structure
-<img src="/img/img6.png" alt="..." width="500px" />
+
+<img src="/img/st.png" alt="..." width="500px" />
 
 ### Major Features
 
 The interfaces and main functions of the website:
 
-1. Home
+1. Login
 
-<img src="/img/img1.png" alt="..." width="1000px" />
+<img src="/img/adminlogin.png" alt="..." width="1000px" />
 
-2. Search for Movies
+2. CRUD Category
 
-<img src="/img/img2.png" alt="..." width="1000px" />
+<img src="/img/cate.png" alt="..." width="1000px" />
 
-3. Movie Details
+3. CRUD Brand
 
-<img src="/img/img3.png" alt="..." width="1000px" />
+<img src="/img/sub_cate.png" alt="..." width="1000px" />
 
-<img src="/img/img4.png" alt="..." width="1000px" />
+4. CRUD Product
 
+<img src="/img/ad_pro.png" width="1000px"/>
+
+5. Các giao diện khác  
+<img src="/img/431644799_782608899964647_2396312985107256790_n.png" alt="..." width="1000px" />
+
+<img src="/img/quanlydat.png" alt="..." width="1000px" />
+
+<img src="/img/431378191_1445428816394874_3151103984967867758_n.png" alt="..." width="1000px" />
