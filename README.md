@@ -2,24 +2,22 @@
 
 ### Content
 
--   Home
--   Đăng nhập
--   Thêm/Sửa/Xóa danh mục
--   Thêm/Sửa/Xóa sản phẩm
--   Thêm/Sửa/Xóa thương hiệu
+- Home
+- Login
+- Add/Edit/Delete Category
+- Add/Edit/Delete Product
+- Add/Edit/Delete Brand
 
 ### Introduction
 
-Dự án sử dụng framework laravel 11 để xây dựng nên trang quản lý của
-trang thương mại điện tử bán quần áo. Trang quản trị sẽ có các chức năng
-như: Đăng nhập, chức năng crud cho sản phẩm, danh mục và brand.
+The project utilizes the Laravel 11 framework to create a management page for an online clothing retail store. The admin area will feature functionalities such as login, alongside CRUD (Create, Read, Update, Delete) operations for products, categories, and brands.
 
 <img src="/img/adminhome.png" alt="..." width="1000px" />
 
 ### Technologies Used
--   PHP
--   LARAVEL 11
--   MYSQL
+- PHP
+- LARAVEL 11
+- MYSQL
 
 ### Home Page
 
@@ -27,11 +25,11 @@ như: Đăng nhập, chức năng crud cho sản phẩm, danh mục và brand.
 
 ### Directory Structure
 
-<img src="/img/st.png" alt="..." width="500px" />
+<img src="/img/st.png" alt="..." width="200px" />
 
 ### Major Features
 
-The interfaces and main functions of the website:
+The interfaces and primary functions of the website:
 
 1. Login
 
@@ -49,7 +47,7 @@ The interfaces and main functions of the website:
 
 <img src="/img/ad_pro.png" width="1000px"/>
 
-5. Các giao diện khác  
+5. Other Interfaces  
 <img src="/img/431644799_782608899964647_2396312985107256790_n.png" alt="..." width="1000px" />
 
 <img src="/img/quanlydat.png" alt="..." width="1000px" />
